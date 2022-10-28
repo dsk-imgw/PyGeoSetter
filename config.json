@@ -1,0 +1,15 @@
+{
+    "gps": {
+		"DATESTAMP": "2022:10:23",
+        "TIMESTAMP": "00:03:30",
+        "LATITUDE_REF": "North",
+        "LONGITUDE_REF": "East",
+		"LATITUDE": "35.05488",
+		"LONGITUDE": "134.74980",
+		"ALTITUDE": "220",
+		"SATELLITES": " ",
+		"MAP_DATUM": "WGS-48",
+		"STATUS": "Measurement Active",
+		"MEASURE_MODE": ""
+    }
+}
