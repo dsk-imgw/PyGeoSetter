@@ -1,6 +1,17 @@
 # PyGeoSetter
 
-A Python script that adds GPS information in image files. Additional Python modules, "pyexif" and "GPSPhoto", may be required.
+A Python script that adds GPS information in image files. Additional Python modules may be required.
+You can use this program if you want to add to your photos the location where they ware taken, such as when your old DSLR does not support GPS or you perform composite operations like astrophotographs.
+
+## Install
+
+1. Install Python 3.x.
+
+2. Install necessary Python modules.
+
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
